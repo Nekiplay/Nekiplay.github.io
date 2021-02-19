@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613734585426">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613735022551">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="71591471" ref="index"/>
+    <file name="index.css" crc="4162478369" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,5 +15,5 @@
     <file name="unnamed-crop-u162.jpg" crc="471653809" ref="index"/>
     <file name="neki_play-favicon.ico" crc="83128896" ref="index"/>
   </folder>
-  <file name="index.html" crc="90342040" seo="true" mt="1613734574218" redirect="true"/>
+  <file name="index.html" crc="3899661851" seo="true" mt="1613734965103" redirect="true"/>
 </manifest>
