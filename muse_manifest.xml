@@ -1,26 +1,31 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613818747916">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613827941863">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4020521802" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="63391510" seo="true" mt="1613827899093" redirect="true"/>
+  </folder>
   <folder name="assets">
     <file name="『1.8.9』-megacraft-stats-command-『by-neki_play』.jar" crc="238420486" seo="true" mt="1613651034000"/>
     <file name="『1.8.9』-megacraft-clicker-improve-『by-neki_play』.jar" crc="3951275732" seo="true" mt="1613816771000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4121605157" ref="index"/>
-    <file name="___-_____-4.css" crc="4193191577" ref="без-имени-4"/>
+    <file name="index.css" crc="480795173" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-4"/>
-    <file name="museutils.js" crc="163421577" ref="index:без-имени-4"/>
-    <file name="whatinput.js" crc="86476730" ref="index:без-имени-4"/>
-    <file name="museconfig.js" crc="168988563" ref="index:без-имени-4"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:без-имени-4"/>
-    <file name="require.js" crc="244322403" ref="index:без-имени-4"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="163421577" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="168988563" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:phone>index"/>
+    <file name="require.js" crc="244322403" ref="index:phone>index"/>
   </folder>
   <folder name="images">
     <file name="unnamed-crop-u162.jpg" crc="471653809" ref="index"/>
-    <file name="neki_play-favicon.ico" crc="83128896" ref="index"/>
-    <file name="megalogozip.png" crc="3795803969" seo="true" ref="index"/>
+    <file name="neki_play-favicon.ico" crc="344402277" ref="phone>index"/>
+    <file name="megalogozip.png" crc="3795803969" seo="true" ref="index:phone>index"/>
+    <file name="unnamed-crop-u556.jpg" crc="471653809" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="373945384" seo="true" mt="1613818737694" redirect="true"/>
-  <file name="без-имени-4.html" crc="229567461" seo="true" mt="1613738185434" redirect="false"/>
+  <file name="index.html" crc="4173808088" seo="true" mt="1613827864790" redirect="true"/>
 </manifest>
