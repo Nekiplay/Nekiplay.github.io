@@ -1,17 +1,18 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613828485863">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613840887098">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4099519186" ref="phone>index"/>
+      <file name="index.css" crc="445886785" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="385661097" seo="true" mt="1613828477858" redirect="true"/>
+    <file name="index.html" crc="433089121" seo="true" mt="1613840725638" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="『1.8.9』-megacraft-stats-command-『by-neki_play』.jar" crc="238420486" seo="true" mt="1613651034000"/>
     <file name="『1.8.9』-megacraft-clicker-improve-『by-neki_play』.jar" crc="3951275732" seo="true" mt="1613816771000"/>
+    <file name="『1.12.2』-megacraft-stats-command-『by-neki_play』.jar" crc="269340890" seo="true" mt="1613839469000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="480795173" ref="index"/>
+    <file name="index.css" crc="115731834" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -27,5 +28,5 @@
     <file name="megalogozip.png" crc="3795803969" seo="true" ref="index:phone>index"/>
     <file name="unnamed-crop-u556.jpg" crc="471653809" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="3968313011" seo="true" mt="1613828465404" redirect="true"/>
+  <file name="index.html" crc="150958941" seo="true" mt="1613840701428" redirect="true"/>
 </manifest>
