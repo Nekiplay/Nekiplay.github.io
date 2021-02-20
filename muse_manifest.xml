@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613827941863">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://nekiplay.github.io" resolutions="1x" timestamp="1613828152029">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4020521802" ref="phone>index"/>
+      <file name="index.css" crc="4099519186" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="63391510" seo="true" mt="1613827899093" redirect="true"/>
+    <file name="index.html" crc="4290965976" seo="true" mt="1613828143911" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="『1.8.9』-megacraft-stats-command-『by-neki_play』.jar" crc="238420486" seo="true" mt="1613651034000"/>
